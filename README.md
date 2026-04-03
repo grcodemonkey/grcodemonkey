@@ -82,6 +82,8 @@ I believe the best architects never stop being juniors at something.
     </tr>
   </tbody>
 </table>
+
+  <img width="960" height="720" alt="Ragnar Relay Team" src="https://github.com/user-attachments/assets/258bd898-a4c2-41e2-9a31-484babb6be60" />
 </div>
 <br>
 
@@ -109,4 +111,6 @@ I believe the best architects never stop being juniors at something.
 
 </div>
 
-<img width="1284" height="321" alt="image" src="https://github.com/user-attachments/assets/2af93da3-df13-4049-a669-7b49b4fd2190" />
+<img width="1284" height="321" alt="Fusionary at Weekend for Good" src="https://github.com/user-attachments/assets/2af93da3-df13-4049-a669-7b49b4fd2190" />
+
+
