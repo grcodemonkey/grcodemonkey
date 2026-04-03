@@ -4,7 +4,7 @@
 # Hey, I'm Jeremy Bell 🐒
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Principal+Software+Architect;Building+with+Next.js+%26+Payload+CMS;Code+monkey+by+nature+%F0%9F%90%92" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Principal+Software+Architect" alt="Principal Software Architect" />
 </a>
 
 </div>
@@ -50,7 +50,6 @@ I believe the best architects never stop being juniors at something.
 
 <div align="center">
 
-| | |
 |---|---|
 | 🔭 **Exploring** | AI-assisted development with Claude & Cursor |
 | 🌱 **Learning** | Payload CMS & React Server Components |
@@ -66,8 +65,6 @@ I believe the best architects never stop being juniors at something.
 
 📍 Grand Rapids, MI &nbsp;·&nbsp; 🎤 [Code For Good West Michigan](https://github.com/code-for-good-wm) &nbsp;·&nbsp; 🚲 GR Bicycle Coalition
 
-🌍 Speaks English, Spanish & German — mass produces semicolons in all three.
-
 </div>
 
 <br>
@@ -76,8 +73,6 @@ I believe the best architects never stop being juniors at something.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=grcodemonkey&show_icons=true&title_color=06b6d4&icon_color=f97316&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=false" alt="GitHub Stats" height="170"/>
-&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=grcodemonkey&theme=dark&ring=06b6d4&fire=f97316&currStreakLabel=06b6d4&sideLabels=c9d1d9&background=0d1117&border=30363d" alt="GitHub Streak" height="170"/>
 
 </div>
@@ -95,9 +90,5 @@ I believe the best architects never stop being juniors at something.
 <a href="https://github.com/grcodemonkey">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/>
 </a>
-
-<br><br>
-
-📌 *Check out my pinned repos below*
 
 </div>
