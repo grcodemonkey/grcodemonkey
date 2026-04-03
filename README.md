@@ -1,10 +1,11 @@
-<img width="450" height="225" alt="image" src="https://github.com/user-attachments/assets/6b8f9e37-dcfd-4374-91bf-17e225763cdc" />
 
 
 <!-- Header -->
 <div align="center">
 
-# Hey, I'm Jeremy Bell 🐒
+<img width="450" height="225" alt="image" src="https://github.com/user-attachments/assets/6b8f9e37-dcfd-4374-91bf-17e225763cdc" />
+
+# Jeremy Bell
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Principal+Software+Architect" alt="Principal Software Architect" />
