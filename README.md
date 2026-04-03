@@ -73,7 +73,7 @@ I believe the best architects never stop being juniors at something.
       </td>
       <td align="center" width="34%">
         <img width="56" height="50" alt="" src="https://github.com/user-attachments/assets/37ecd125-5a30-465c-8d67-4bede5c26488" /><br />
-        <a href="https://github.com/code-for-good-wm">Code For Good West Michigan</a>
+        <a href="https://github.com/code-for-good-wm">Code For Good<br />West Michigan</a>
       </td>
       <td align="center" width="33%">
         <img width="50" height="50" alt="" src="https://github.com/user-attachments/assets/04eb4a44-a87e-47e2-83e5-9e57f0bf6ef1" /><br />
