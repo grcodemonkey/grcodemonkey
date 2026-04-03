@@ -68,7 +68,10 @@ I believe the best architects never stop being juniors at something.
 
 <div align="center">
 
-📍 Grand Rapids, MI &nbsp;·&nbsp; 🎤 [Code For Good West Michigan](https://github.com/code-for-good-wm) &nbsp;·&nbsp; 🚲 [GR Bicycle Coalition](https://bikegr.org)
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a730de7e-81f3-4ef6-a4f3-2e6b2a8be262" />
+ Grand Rapids, MI &nbsp;·&nbsp; <img width="56" height="50" alt="image" src="https://github.com/user-attachments/assets/37ecd125-5a30-465c-8d67-4bede5c26488" />
+ [Code For Good West Michigan](https://github.com/code-for-good-wm) &nbsp;·&nbsp; <img width="50" height="05" alt="image" src="https://github.com/user-attachments/assets/04eb4a44-a87e-47e2-83e5-9e57f0bf6ef1" />
+ [GR Bicycle Coalition](https://bikegr.org)
 
 </div>
 
