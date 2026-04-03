@@ -50,9 +50,10 @@ I believe the best architects never stop being juniors at something.
 
 <div align="center">
 
-|---|---|
-| 🔭 **Exploring** | AI-assisted development with Claude & Cursor |
-| 🌱 **Learning** | Payload CMS & React Server Components |
+|                     |                                                   |
+| ------------------- | ------------------------------------------------- |
+| 🔭 **Exploring**    | AI-assisted development with Claude & Cursor      |
+| 🌱 **Learning**     | Payload CMS & React Server Components             |
 | 💬 **Ask me about** | Enterprise architecture & headless CMS migrations |
 
 </div>
