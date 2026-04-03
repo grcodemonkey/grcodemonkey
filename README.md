@@ -1,4 +1,5 @@
-<img width="1284" height="321" alt="image" src="https://github.com/user-attachments/assets/2af93da3-df13-4049-a669-7b49b4fd2190" />
+<img width="450" height="225" alt="image" src="https://github.com/user-attachments/assets/6b8f9e37-dcfd-4374-91bf-17e225763cdc" />
+
 
 <!-- Header -->
 <div align="center">
@@ -95,3 +96,5 @@ I believe the best architects never stop being juniors at something.
 </a>
 
 </div>
+
+<img width="1284" height="321" alt="image" src="https://github.com/user-attachments/assets/2af93da3-df13-4049-a669-7b49b4fd2190" />
